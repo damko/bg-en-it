@@ -1,3 +1,7 @@
+---
+title: Numbers
+---
+
 # Numbers
 
 ## From zero to ten
