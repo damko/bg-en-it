@@ -1,2 +1,17 @@
 theme: jekyll-theme-minimal
 title: Learning Bulgarian and Italian through English
+baseurl: /
+highlighter: rouge
+permalink: date
+
+gems:
+    - jekyll-sitemap
+
+defaults:
+    -
+      scope:
+          path: ""
+      values:
+          sitemap: false
+
+exclude: ['CNAME', 'CONTRIBUTING.md', 'LICENSE', 'README.md']
