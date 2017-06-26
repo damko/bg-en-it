@@ -1,5 +1,7 @@
 ---
-title: Numbers
+isChild: true
+anchor:  namespaces
+---
 ---
 
 # Numbers
